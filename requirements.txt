@@ -1,0 +1,8 @@
+# Smart Attendance System – Python dependencies
+# Install with:  pip install -r requirements.txt
+
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+Pillow>=9.5.0
+# sqlite3  →  built into Python standard library (no install needed)
+# tkinter  →  built into Python standard library (no install needed)

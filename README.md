@@ -253,6 +253,3 @@ The application window will open automatically.
 - The GUI uses Tkinter's `after()` method to keep the webcam loop off the main thread,
   preventing the interface from freezing during face capture and recognition.
 
----
-
-*Final Year Project – Nigerian Army University, Biu (2024/2025)*

@@ -1,7 +1,6 @@
 # 🎓 Smart Attendance System
 ## Design and Implementation of a Smart Attendance System Using Facial Recognition and Machine Learning
 
-**Nigerian Army University, Biu – Department of Software Engineering**
 
 ---
 
